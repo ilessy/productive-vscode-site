@@ -1,4 +1,4 @@
-console.log("hi everybody!");
+console.log("hi everybody!")
 
 export default function SiteHeader() {
   return (
@@ -34,5 +34,5 @@ export default function SiteHeader() {
         </div>
       </div>
     </nav>
-  );
+  )
 }
